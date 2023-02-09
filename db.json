@@ -1,0 +1,12 @@
+{
+    "usernames": [
+        "admin",
+        "hayoto"
+    ],
+    "admin": {
+        "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
+    },
+    "hayoto": {
+        "password": "1f04a30bbf5973d67ff2c841aeda6f2320e69c73dde8365754d736feafc0677b"
+    }
+}
