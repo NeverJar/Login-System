@@ -69,6 +69,10 @@ class _base:
             _base.register()
         elif choice == "3":
             exit()
+        else:
+            print(Center.XCenter(Colorate.Horizontal(Colors.blue_to_purple, "Invalid Input")))
+            input()
+            exit()
 
 if __name__ == "__main__":
     _base.menu()
